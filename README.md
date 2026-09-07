@@ -60,8 +60,10 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Pranavi S
+### Register Number: 212225040311
+<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/eb061bbb-fb21-4a33-b92b-27f6d7ff8043" />
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
